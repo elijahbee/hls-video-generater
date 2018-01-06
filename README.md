@@ -1,4 +1,4 @@
-# HlsVideoGenerater
+# HlsVideoGenerator
 
 [![Software License](https://img.shields.io/badge/license-GPL-brightgreen.svg?style=flat-square)](LICENSE)
 [![Packagist Version](https://img.shields.io/packagist/v/Mehrdad-Dadkhah/hls-video-generater.svg?style=flat-square)](https://packagist.org/packages/Mehrdad-Dadkhah/HlsVideoGenerater)
